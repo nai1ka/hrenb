@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "892878474179",
+    "project_id": "hrenb-d59dc",
+    "storage_bucket": "hrenb-d59dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892878474179:android:b2416f1fe978f258a78b76",
+        "android_client_info": {
+          "package_name": "ru.ndevelop.hrenb.hrenb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892878474179-hkb0vqql9qruf2753o6uvsr5830up2op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA74RzPijC5ehMTXKi4BSAezN_0Hc5Igv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892878474179-hkb0vqql9qruf2753o6uvsr5830up2op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
